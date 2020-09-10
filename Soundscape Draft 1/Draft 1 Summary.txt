@@ -1,0 +1,21 @@
+The project as it sits now is only in its preliminary stage. The project is very bare-bones as of now, as it only 
+contains 3-4 samples. 
+
+For a summary of the project, the audio file details the part of the project before the conflict. The project 
+details a scientist in a laboratory setting, just doing standard work. You can hear the electric hum of the 
+instrumentation in the lab. You can also hear the scientist typing at a keyboard, recording data from the test 
+subject, as well as the scientist turning a knob, as a means of altering the environment the test subject is in.
+
+As of right now, the main thing preventing me from making anymore progress is just planning out everything that 
+I want to include in the final draft of the project. I have a lot of ideas that I want to include in the overall
+project, but I am afraid that the entire project will end up being bloated with so many samples and sounds, 
+and even end up multiple minutes long.
+
+For right now, my next plans are to record more samples, and find potential samples to use online. As a whole,
+I want to use as many original samples as possible. I want to be responsible for making most of the sounds in the
+project. As of right now, all of the samples present in the first draft are recorded by myself. The downside with
+this approach is the extra time, planning, and consideration that comes along with it.
+
+As of right now, my next plan is to focus on programming the sounds I want to use for other machinery and 
+computational samples. I will be using MAX/MSP to program these sounds. Eventually, I will get to the point to
+have a full draft by this upcoming Tuesday.
