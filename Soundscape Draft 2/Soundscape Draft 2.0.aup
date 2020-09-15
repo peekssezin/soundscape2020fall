@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="Soundscape Draft 2.0_data" version="1.3.0" audacityversion="2.4.2" sel0="54.3299219601" sel1="54.3299219601" vpos="1216" h="0.0000000000" zoom="5.3377584494" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Soundscape Draft 2.0_data" version="1.3.0" audacityversion="2.4.2" sel0="91.4007264700" sel1="91.4007264700" vpos="1088" h="88.0285244173" zoom="42.7020675955" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
-		<tag name="Software" value="Lavf57.56.101"/>
 		<tag name="major_brand" value="dash"/>
+		<tag name="Software" value="Lavf57.56.101"/>
 		<tag name="minor_version" value="0"/>
 		<tag name="compatible_brands" value="iso6mp41"/>
 	</tags>
@@ -204,6 +204,22 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
+		<waveclip offset="79.76195176" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="82619">
+				<waveblock start="0">
+					<simpleblockfile filename="e080843f.au" len="82619" min="-0.132813" max="0.23056" rms="0.006785"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="85.78038621" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="139457">
+				<waveblock start="0">
+					<simpleblockfile filename="e08084b5.au" len="139457" min="-0.340332" max="0.292725" rms="0.006196"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
 	</wavetrack>
 	<wavetrack name="Knob Adjusting" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.6" colorindex="0">
 		<waveclip offset="14.75680272" colorindex="0">
@@ -245,7 +261,7 @@
 		</waveclip>
 	</wavetrack>
 	<wavetrack name="Footsteps Slow" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="2.52691374" colorindex="0">
+		<waveclip offset="2.52691610" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="426367">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808ea0.au" len="237597" min="-0.24472" max="0.181671" rms="0.015297"/>
@@ -256,8 +272,16 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
+		<waveclip offset="74.56314367" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="148714">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808b3b.au" len="148714" min="-0.07959" max="0.055725" rms="0.004502"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
 	</wavetrack>
-	<wavetrack name="Bubbling" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Bubbling" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="-1.0" colorindex="0">
 		<waveclip offset="2.52691374" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="86279021">
 				<waveblock start="0">
@@ -1254,7 +1278,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Bubbling" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Bubbling" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="1.0" colorindex="0">
 		<waveclip offset="2.52691374" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="86279021">
 				<waveblock start="0">
@@ -1270,19 +1294,19 @@
 					<simpleblockfile filename="e08022cc.au" len="262144" min="-0.224718" max="0.241461" rms="0.025204"/>
 				</waveblock>
 				<waveblock start="927284">
-					<simpleblockfile filename="e08026e7.au" len="262144" min="-0.162858" max="0.183436" rms="0.0199"/>
+					<simpleblockfile filename="e08082ca.au" len="262144" min="-0.09405" max="0.071853" rms="0.009078"/>
 				</waveblock>
 				<waveblock start="1189428">
-					<simpleblockfile filename="e0802960.au" len="262144" min="-0.154242" max="0.18898" rms="0.020751"/>
+					<simpleblockfile filename="e0808624.au" len="262144" min="-0.000488" max="0.000598" rms="0.000066"/>
 				</waveblock>
 				<waveblock start="1451572">
-					<simpleblockfile filename="e0802e93.au" len="262144" min="-0.133773" max="0.162331" rms="0.018974"/>
+					<simpleblockfile filename="e0808bc0.au" len="262144" min="-0.000423" max="0.000513" rms="0.00006"/>
 				</waveblock>
 				<waveblock start="1713716">
-					<simpleblockfile filename="e0802078.au" len="262144" min="-0.243715" max="0.218302" rms="0.022318"/>
+					<simpleblockfile filename="e0808d50.au" len="262144" min="-0.01032" max="0.010253" rms="0.000629"/>
 				</waveblock>
 				<waveblock start="1975860">
-					<simpleblockfile filename="e08022f5.au" len="262144" min="-0.153751" max="0.181909" rms="0.018173"/>
+					<simpleblockfile filename="e0808ff4.au" len="262144" min="-0.137645" max="0.131954" rms="0.013157"/>
 				</waveblock>
 				<waveblock start="2238004">
 					<simpleblockfile filename="e08022ad.au" len="262144" min="-0.248514" max="0.254658" rms="0.025622"/>
@@ -2251,7 +2275,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Radiohead ZX Spectrum program from OK Computer OKNOTOK 1997-2017" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Radiohead ZX Spectrum program from OK Computer OKNOTOK 1997-2017" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="-1.0" colorindex="0">
 		<waveclip offset="42.76224490" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="12540235">
 				<waveblock start="0">
@@ -2270,19 +2294,19 @@
 					<simpleblockfile filename="e0803292.au" len="251851" min="-0.933299" max="0.970814" rms="0.172778"/>
 				</waveblock>
 				<waveblock start="1133771">
-					<simpleblockfile filename="e0803ff8.au" len="262144" min="-0.926719" max="0.979501" rms="0.192857"/>
+					<simpleblockfile filename="e0808e77.au" len="262144" min="-0.914691" max="0.970094" rms="0.158737"/>
 				</waveblock>
 				<waveblock start="1395915">
-					<simpleblockfile filename="e08035ce.au" len="262144" min="-0.932683" max="0.974985" rms="0.203109"/>
+					<simpleblockfile filename="e0808e27.au" len="262144" min="-0.002949" max="0.003083" rms="0.000632"/>
 				</waveblock>
 				<waveblock start="1658059">
-					<simpleblockfile filename="e0803b9b.au" len="262144" min="-0.935539" max="0.978479" rms="0.16597"/>
+					<simpleblockfile filename="e0808329.au" len="262144" min="-0.002958" max="0.003094" rms="0.000525"/>
 				</waveblock>
 				<waveblock start="1920203">
-					<simpleblockfile filename="e0803b57.au" len="262144" min="-0.91968" max="1.005615" rms="0.178442"/>
+					<simpleblockfile filename="e08087a4.au" len="262144" min="-0.002908" max="0.00318" rms="0.000564"/>
 				</waveblock>
 				<waveblock start="2182347">
-					<simpleblockfile filename="e0803ebb.au" len="262144" min="-0.933831" max="0.991502" rms="0.203237"/>
+					<simpleblockfile filename="e080887d.au" len="262144" min="-0.790724" max="0.963892" rms="0.101746"/>
 				</waveblock>
 				<waveblock start="2444491">
 					<simpleblockfile filename="e080322e.au" len="262144" min="-0.955072" max="0.980315" rms="0.174289"/>
@@ -2405,7 +2429,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Radiohead ZX Spectrum program from OK Computer OKNOTOK 1997-2017" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Radiohead ZX Spectrum program from OK Computer OKNOTOK 1997-2017" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="1.0" colorindex="0">
 		<waveclip offset="42.76224490" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="12540235">
 				<waveblock start="0">
@@ -2554,6 +2578,39 @@
 				</waveblock>
 				<waveblock start="12405963">
 					<simpleblockfile filename="e0803871.au" len="134272" min="-0.885116" max="0.968591" rms="0.10318"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="4">
+				<controlpoint t="31.806743893770" val="1.000000000000"/>
+				<controlpoint t="35.178945946467" val="0.366197168827"/>
+				<controlpoint t="49.622040502032" val="0.366197168827"/>
+				<controlpoint t="53.743620788663" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="R Dududududu " isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="11.220184" pan="1.0" colorindex="0">
+		<waveclip offset="70.02002268" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="27367">
+				<waveblock start="0">
+					<simpleblockfile filename="e08083c2.au" len="27367" min="-0.037659" max="0.040955" rms="0.009694"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Dududududu" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="63.095734" pan="0.0" colorindex="0">
+		<waveclip offset="82.01594269" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="26464">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808787.au" len="26464" min="-0.037659" max="0.040955" rms="0.009862"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="90.01906035" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="26464">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808787.au" len="26464" min="-0.037659" max="0.040955" rms="0.009862"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
