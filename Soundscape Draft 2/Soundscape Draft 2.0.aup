@@ -1,13 +1,13 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="Soundscape Draft 2.0_data" version="1.3.0" audacityversion="2.4.2" sel0="91.4007264700" sel1="91.4007264700" vpos="1088" h="88.0285244173" zoom="42.7020675955" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Soundscape Draft 2.0_data" version="1.3.0" audacityversion="2.4.2" sel0="146.2809730707" sel1="146.2809730707" vpos="1808" h="57.1049632327" zoom="5.3377584494" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
 		<tag name="major_brand" value="dash"/>
 		<tag name="Software" value="Lavf57.56.101"/>
 		<tag name="minor_version" value="0"/>
 		<tag name="compatible_brands" value="iso6mp41"/>
 	</tags>
-	<wavetrack name="Electric Hum 2" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="1.0" colorindex="0">
+	<wavetrack name="Electric Hum 2" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="1.0" colorindex="0">
 		<waveclip offset="1.01569161" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="5774152">
 				<waveblock start="0">
@@ -98,7 +98,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Electric Hum R" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="-1.0" colorindex="0">
+	<wavetrack name="Electric Hum R" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="-1.0" colorindex="0">
 		<waveclip offset="1.01569161" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="5774152">
 				<waveblock start="0">
@@ -189,7 +189,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Keyboard Typing" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Keyboard Typing" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="26.26442177" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="727554">
 				<waveblock start="0">
@@ -221,7 +221,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Knob Adjusting" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.6" colorindex="0">
+	<wavetrack name="Knob Adjusting" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.6" colorindex="0">
 		<waveclip offset="14.75680272" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="331522">
 				<waveblock start="0">
@@ -234,7 +234,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Elevator Door" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Elevator Door" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="405195">
 				<waveblock start="0">
@@ -247,7 +247,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Elevator Door" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Elevator Door" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="405195">
 				<waveblock start="0">
@@ -260,7 +260,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Footsteps Slow" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Footsteps Slow" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="2.52691610" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="426367">
 				<waveblock start="0">
@@ -281,7 +281,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Bubbling" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="-1.0" colorindex="0">
+	<wavetrack name="Bubbling" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="48000" gain="1.0" pan="-1.0" colorindex="0">
 		<waveclip offset="2.52691374" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="86279021">
 				<waveblock start="0">
@@ -1278,7 +1278,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Bubbling" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="1.0" colorindex="0">
+	<wavetrack name="Bubbling" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="48000" gain="1.0" pan="1.0" colorindex="0">
 		<waveclip offset="2.52691374" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="86279021">
 				<waveblock start="0">
@@ -2275,7 +2275,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Radiohead ZX Spectrum program from OK Computer OKNOTOK 1997-2017" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="-1.0" colorindex="0">
+	<wavetrack name="Radiohead ZX Spectrum program from OK Computer OKNOTOK 1997-2017" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="-1.0" colorindex="0">
 		<waveclip offset="42.76224490" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="12540235">
 				<waveblock start="0">
@@ -2429,7 +2429,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Radiohead ZX Spectrum program from OK Computer OKNOTOK 1997-2017" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="1.0" colorindex="0">
+	<wavetrack name="Radiohead ZX Spectrum program from OK Computer OKNOTOK 1997-2017" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="1.0" colorindex="0">
 		<waveclip offset="42.76224490" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="12540235">
 				<waveblock start="0">
@@ -2588,7 +2588,7 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="R Dududududu " isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="11.220184" pan="1.0" colorindex="0">
+	<wavetrack name="R Dududududu " isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="44100" gain="11.220184" pan="1.0" colorindex="0">
 		<waveclip offset="70.02002268" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="27367">
 				<waveblock start="0">
@@ -2598,7 +2598,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Dududududu" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="63.095734" pan="0.0" colorindex="0">
+	<wavetrack name="Dududududu" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="44100" gain="63.095734" pan="0.0" colorindex="0">
 		<waveclip offset="82.01594269" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="26464">
 				<waveblock start="0">
@@ -2611,6 +2611,50 @@
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="26464">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808787.au" len="26464" min="-0.037659" max="0.040955" rms="0.009862"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Powering Down" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="123.64741497" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="998140">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808b75.au" len="262144" min="-0.136435" max="0.137718" rms="0.039102"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808f84.au" len="262144" min="-0.241468" max="0.222278" rms="0.055263"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808295.au" len="262144" min="-0.274985" max="0.289869" rms="0.077138"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0808a4d.au" len="211708" min="-0.245675" max="0.252088" rms="0.074559"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Powering Up" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="97.04682540" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1313538">
+				<waveblock start="0">
+					<simpleblockfile filename="e080849a.au" len="262144" min="-0.624573" max="0.655853" rms="0.116368"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808e11.au" len="262144" min="-0.660156" max="0.683533" rms="0.113933"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808d27.au" len="262144" min="-0.622711" max="0.636566" rms="0.160783"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e080864c.au" len="262144" min="-0.600769" max="0.612701" rms="0.086033"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0808ead.au" len="262144" min="-0.315765" max="0.29422" rms="0.045429"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0808f66.au" len="2818" min="-0.00169" max="0.001818" rms="0.000556"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
