@@ -1,33 +1,39 @@
-Alarm.wav
+# ASSETS LIST
 
-Bubbling.flac
+- Alarm.wav
+  - Programmed in MAX/MSP by Nick Pekor
+  - Recorded by Nick Pekor
+- Bubbling.flac
 
-Dududududu.wav
+- Dududududu.wav
+  - Programmed in Famitracker by Nick Pekor
+  - Recorded by Nick Pekor
+- Electrical Hum 1.wav
+  - Recorded by Nick Pekor
+- Elevator Door.wav
+  -
+- Error.wav
+  - Programmed in Famitracker by Nick Pekor
+  - Recorded by Nick Pekor
+- Footsteps Fast.wav
+  - Recorded by Nick Pekor
+- Footsteps Slow.wav
 
-Electrical Hum 1.wav
+- Glass Smash.mp3
 
-Elevator Door.wav
+- Glitching.wav
+  - Programmed in MAX/MSP by Nick Pekor
+  - Recorded by Nick Pekor
+- Jacob's Ladder.wav
 
-Error.wav
+- Keyboard Typing.wav
+  - Recorded by Nick Pekor
+- Knob Adjusting.wav
+  - Recorded by Nick Pekor
+- Large Water Pour.wav
 
-Footsteps Fast.wav
-
-Footsteps Slow.wav
-
-Glass Smash.mp3
-
-Glitching.wav
-
-Jacob's Ladder.wav
-
-Keyboard Typing.wav
-
-Knob Adjusting.wav
-
-Large Water Pour.wav
-
-Powering Down.wav
-
-Powering Up.wav
-
-Radiohead ZX Spectrum program from OK Computer OKNOTOK 1997-2017.wav
+- Powering Down.wav
+  - Recorded by Nick Pekor
+- Powering Up.wav
+  - Recorded by Nick Pekor
+- Radiohead ZX Spectrum program from OK Computer OKNOTOK 1997-2017.wav
