@@ -18,7 +18,7 @@
 - Footsteps Fast.wav
   - Recorded by Nick Pekor
 - Footsteps Slow.wav
-
+  - Recorded by Nick Pekor
 - Glass Smash.mp3
   - Received from [youtube.com](https://youtu.be/Noy0_7vmIRo)
 - Glitching.wav
