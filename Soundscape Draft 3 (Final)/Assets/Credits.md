@@ -4,14 +4,14 @@
   - Programmed in MAX/MSP by Nick Pekor
   - Recorded by Nick Pekor
 - Bubbling.flac
-
+  - Received from [freesound.org](https://freesound.org/people/DudeAwesome/sounds/386023/)
 - Dududududu.wav
   - Programmed in Famitracker by Nick Pekor
   - Recorded by Nick Pekor
 - Electrical Hum 1.wav
   - Recorded by Nick Pekor
 - Elevator Door.wav
-  -
+  - Received from [freesound.org](https://freesound.org/people/alberto96/sounds/418277/)
 - Error.wav
   - Programmed in Famitracker by Nick Pekor
   - Recorded by Nick Pekor
@@ -20,18 +20,18 @@
 - Footsteps Slow.wav
 
 - Glass Smash.mp3
-
+  - Received from [youtube.com](https://youtu.be/Noy0_7vmIRo)
 - Glitching.wav
   - Programmed in MAX/MSP by Nick Pekor
   - Recorded by Nick Pekor
 - Jacob's Ladder.wav
-
+  - Received from [freesound.org](https://freesound.org/people/jameswrowles/sounds/253325/)
 - Keyboard Typing.wav
   - Recorded by Nick Pekor
 - Knob Adjusting.wav
   - Recorded by Nick Pekor
 - Large Water Pour.wav
-
+  - Received from [freesound.org](https://freesound.org/people/wormer2/sounds/417786/)
 - Powering Down.wav
   - Recorded by Nick Pekor
 - Powering Up.wav
