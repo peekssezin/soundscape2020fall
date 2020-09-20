@@ -44,3 +44,7 @@
 - Radiohead ZX Spectrum program from OK Computer OKNOTOK 1997-2017.wav
   - Received from [youtube.com](https://youtu.be/JDM5YBS6KMc)
   - Programmed by Radiohead
+
+Bubbling.flac, Elevator Door.wav, Jacob's Ladder.wav, and Large Water Pour.wav are all available for use under Creative Commons 0 License.
+
+Glass Smash.mp3 and Radiohead ZX Spectrum program from OK Computer OKNOTOK 1997-2017.wav are all available for use under Fair Use.
